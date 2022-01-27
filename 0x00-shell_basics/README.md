@@ -11,3 +11,7 @@ Prints files and folders in current directory
 ## 2-bring_me_home
 
 Changes working directory to home
+
+## 3-listfiles
+
+List in a long way the contents of current directory
